@@ -1,0 +1,5 @@
+﻿  Czlowiek.cpp
+  Swiat.cpp
+C:\Users\user\Desktop\po\Project1\Project1\Swiat.cpp(272,7): warning C4101: "c": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+  Project1.vcxproj -> C:\Users\user\Desktop\po\Project1\Debug\Project1.exe

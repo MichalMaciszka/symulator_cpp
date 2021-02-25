@@ -1,0 +1,36 @@
+﻿  Antylopa.cpp
+  BarszczSosnowskiego.cpp
+  Czlowiek.cpp
+  ErrorLog.cpp
+  Guarana.cpp
+  Komentator.cpp
+  Konsola.cpp
+C:\Users\user\Desktop\projekt\po\Project1\Project1\Konsola.cpp(36,27): warning C4267: "inicjowanie": konwersja z "size_t" do "DWORD", możliwa utrata danych
+C:\Users\user\Desktop\projekt\po\Project1\Project1\Konsola.cpp(40,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Lis.cpp
+  main.cpp
+C:\Users\user\Desktop\projekt\po\Project1\Project1\main.cpp(16,22): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Mlecz.cpp
+  Organizm.cpp
+  Owca.cpp
+  Point.cpp
+  Roslina.cpp
+  Swiat.cpp
+C:\Users\user\Desktop\projekt\po\Project1\Project1\Swiat.cpp(148,34): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\user\Desktop\projekt\po\Project1\Project1\Swiat.cpp(260,27): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\user\Desktop\projekt\po\Project1\Project1\Swiat.cpp(272,7): warning C4101: "c": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\user\Desktop\projekt\po\Project1\Project1\Swiat.cpp(387,32): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Trawa.cpp
+  WilczeJagody.cpp
+  Wilk.cpp
+  ZarzadcaProgramu.cpp
+C:\Users\user\Desktop\projekt\po\Project1\Project1\ZarzadcaProgramu.cpp(42,32): warning C4552: „!=”: Wynik wyrażenia nie jest używany
+C:\Users\user\Desktop\projekt\po\Project1\Project1\ZarzadcaProgramu.cpp(107,38): warning C4244: "=": konwersja z "TCHAR" do "char", możliwa utrata danych
+  Zolw.cpp
+  Generowanie kodu...
+C:\Users\user\Desktop\projekt\po\Project1\Project1\Point.cpp(82): warning C4715: "Point::GetRandomUnitVector”: niewszystkie ścieżki kodu zwracają wartość
+  Trwa kompilowanie...
+  Zwierze.cpp
+  RoslinaTrujaca.cpp
+  Generowanie kodu...
+  Project1.vcxproj -> C:\Users\user\Desktop\projekt\po\Project1\x64\Debug\Project1.exe
